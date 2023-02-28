@@ -7,6 +7,6 @@ using std::cout;
 int main() {
 	HelloWorld world;
 	world.say();
-	cout << "Finish. \n"
+	cout << "Finish. \n";
 	return 0;
 }
